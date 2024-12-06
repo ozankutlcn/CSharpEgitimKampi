@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\MainSubjects\MainSubjects\bin\Debug\MainSubjects.exe.config
+C:\Users\LENOVO\source\repos\MainSubjects\MainSubjects\bin\Debug\MainSubjects.exe
+C:\Users\LENOVO\source\repos\MainSubjects\MainSubjects\bin\Debug\MainSubjects.pdb
+C:\Users\LENOVO\source\repos\MainSubjects\MainSubjects\obj\Debug\MainSubjects.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\MainSubjects\MainSubjects\obj\Debug\MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MainSubjects\MainSubjects\obj\Debug\MainSubjects.exe
+C:\Users\LENOVO\source\repos\MainSubjects\MainSubjects\obj\Debug\MainSubjects.pdb
+C:\Users\ozan_\OneDrive\Masaüstü\MainSubjects\MainSubjects\MainSubjects\bin\Debug\MainSubjects.exe.config
+C:\Users\ozan_\OneDrive\Masaüstü\MainSubjects\MainSubjects\MainSubjects\bin\Debug\MainSubjects.exe
+C:\Users\ozan_\OneDrive\Masaüstü\MainSubjects\MainSubjects\MainSubjects\bin\Debug\MainSubjects.pdb
+C:\Users\ozan_\OneDrive\Masaüstü\MainSubjects\MainSubjects\MainSubjects\obj\Debug\MainSubjects.csproj.AssemblyReference.cache
+C:\Users\ozan_\OneDrive\Masaüstü\MainSubjects\MainSubjects\MainSubjects\obj\Debug\MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\ozan_\OneDrive\Masaüstü\MainSubjects\MainSubjects\MainSubjects\obj\Debug\MainSubjects.exe
+C:\Users\ozan_\OneDrive\Masaüstü\MainSubjects\MainSubjects\MainSubjects\obj\Debug\MainSubjects.pdb
