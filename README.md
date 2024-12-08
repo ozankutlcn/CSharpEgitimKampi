@@ -25,9 +25,13 @@ Bu kısımda bir dizi nasıl tanımlanır, içerisine nasıl değer atanır ve e
 Programlamada çok önemli bir yeri olan metotları derinlemesine öğrenip uyguladık.Aşağıda yer alan alt başlıkları işledik. Kullanıcıdan üç ayrı değer alınan ve alınan değerler sonrası sınav ortalamasını döndüren bir metot uygulaması yaptım. 🧮
 >#### Void(Geriye Değer Döndürmeyen Metot)
 >#### Geriye Değer Döndürmeyen Parametreli Metotlar
->#### Geriye Değer Döndüren Metotlar 
+>#### Geriye Değer Döndüren Metotlar
 
+## ⭐ Proje 7 - Database Project (Veri Tabanlı Ürün Kategori Bilgi Sistemi)
+Bu katmanda ADO .NET'in ilk adımlarını attım. SqlConnection,SqlCommand,SqlDataAdapter,DataTable ve DataRow sınıflarını öğrenip kullandım. Microsoft SQL ile veritabanı ve tabloları oluşturup, C# tarafında database bağlantı ayarlarını yaptım. 🔌
 
+## ⭐ Proje 8 - CRUD Process (Create Read Update Delete İşlemleri)
+Bu projede ADO .NET ile veritabanı üzerinde Ürün Güncelleme,Ürün Silme,Ürün Girişi ve Kategori Girişi yaptım. Parameters.AddWithValue,ExecuteNonQuery SqlCommand sınıfının metotlarını kulllanmayı öğrendim. 
 
 
 
