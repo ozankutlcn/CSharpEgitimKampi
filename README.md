@@ -34,7 +34,8 @@ Bu katmanda ADO .NET'in ilk adımlarını attım. SqlConnection,SqlCommand,SqlDa
 Bu projede ADO .NET ile veritabanı üzerinde Ürün Güncelleme,Ürün Silme,Ürün Girişi ve Kategori Girişi yaptım. Parameters.AddWithValue,ExecuteNonQuery SqlCommand sınıfının metotlarını kulllanmayı öğrendim. 
 
 ## ⭐ Proje 9 - Statistic EF Project 
-Bu projede Entity Framework ile bir seyahat acentasının istatistik panelini yaptık. Bu projede öğrendiğim tüm Entity Framework metotlarını kullandım. EF üzerinde SubQuery oluşturmayı öğrendim.
+Bu projede Entity Framework ile bir seyahat acentasının istatistik panelini yaptık. Bu projede öğrendiğim tüm Entity Framework metotlarını kullandım. EF üzerinde SubQuery oluşturmayı öğrendim. Tüm bunlara ek olarak, bu projeyi yaparken Database First
+yaklaşımını ilk kez kullanmış oldum.
 
 ![image](https://github.com/user-attachments/assets/36138163-bd51-4e60-b1d2-eceaddf3e804)
 
