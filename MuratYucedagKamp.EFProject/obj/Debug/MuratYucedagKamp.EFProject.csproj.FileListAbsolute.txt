@@ -1,0 +1,17 @@
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYucedagKamp.EFProject.csproj.AssemblyReference.cache
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYucedagKamp.EFProject.Form1.resources
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYucedagKamp.EFProject.Properties.Resources.resources
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYucedagKamp.EFProject.csproj.GenerateResource.cache
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYucedagKamp.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\bin\Debug\MuratYucedagKamp.EFProject.exe.config
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\bin\Debug\MuratYucedagKamp.EFProject.exe
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\bin\Debug\MuratYucedagKamp.EFProject.pdb
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYuc.28E528E1.Up2Date
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYucedagKamp.EFProject.exe
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYucedagKamp.EFProject.pdb
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYucedagKamp.EFProject.FrmLocation.resources
+C:\Users\ozan_\source\repos\MuratYucedagKamp\MuratYucedagKamp.EFProject\obj\Debug\MuratYucedagKamp.EFProject.FrmStatistics.resources
