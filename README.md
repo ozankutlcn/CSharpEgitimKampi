@@ -33,6 +33,12 @@ Bu katmanda ADO .NET'in ilk adımlarını attım. SqlConnection,SqlCommand,SqlDa
 ## ⭐ Proje 8 - CRUD Process (Create Read Update Delete İşlemleri)
 Bu projede ADO .NET ile veritabanı üzerinde Ürün Güncelleme,Ürün Silme,Ürün Girişi ve Kategori Girişi yaptım. Parameters.AddWithValue,ExecuteNonQuery SqlCommand sınıfının metotlarını kulllanmayı öğrendim. 
 
+## ⭐ Proje 9 - Statistic EF Project 
+Bu projede Entity Framework ile bir seyahat acentasının istatistik panelini yaptık. Bu projede öğrendiğim tüm Entity Framework metotlarını kullandım. EF üzerinde SubQuery oluşturmayı öğrendim.
+
+![image](https://github.com/user-attachments/assets/36138163-bd51-4e60-b1d2-eceaddf3e804)
+
+
 
 
 
